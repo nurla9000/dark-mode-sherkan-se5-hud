@@ -1,7 +1,7 @@
 ![sherkan_hud_header](https://github.com/user-attachments/assets/14270594-aae1-469a-82d8-5858ef6a82c7)
 # *AN ALTERNATIVE VERSION OF THE SHERKAN SE5 HUD FROM EARLY 2016 TO LATE 2017!*
 
-- *this works for iw4x!*
+- **now on alterware forums!** https://forum.alterware.dev/t/iw4x-iw4m-alternative-modified-sherkan-se5-hud-v0-0-1/1209
 
 ![image](https://github.com/user-attachments/assets/df460312-afbb-4124-8c1a-49c73dd0cd2b)
 ![image](https://github.com/user-attachments/assets/472fbb5c-438a-4682-8713-d8edcbe6cf36)
