@@ -1,5 +1,9 @@
 ![sherkan_hud_header](https://github.com/user-attachments/assets/14270594-aae1-469a-82d8-5858ef6a82c7)
-# *AN ALTERNATIVE VERSION OF THE SHERKAN SE5 HUD FROM EARLY 2016 TO LATE 2017!*
+
+
+> ***This hud is modified to be a dark mode alternative version of the Sherkan SE5 HUD from early 2016 to late 2017! It comes with 2 versions, Green and Blue for the allies and Red for the Axis Teams!***
+> 
+> ***(this will be updated in the upcoming days as this is in alpha)***
 
 - **now on alterware forums!** https://forum.alterware.dev/t/iw4x-iw4m-alternative-modified-sherkan-se5-hud-v0-0-1/1209
 
