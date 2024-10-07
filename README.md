@@ -3,10 +3,20 @@
 
 - **now on alterware forums!** https://forum.alterware.dev/t/iw4x-iw4m-alternative-modified-sherkan-se5-hud-v0-0-1/1209
 
-![image](https://github.com/user-attachments/assets/df460312-afbb-4124-8c1a-49c73dd0cd2b)
-![unknown_2024 09 29-17 09_1](https://github.com/user-attachments/assets/509a1ed0-c2a3-4de5-ac96-36032335e615)
-![image](https://github.com/user-attachments/assets/472fbb5c-438a-4682-8713-d8edcbe6cf36)
-![image](https://github.com/user-attachments/assets/1ee9bb22-ecff-441a-a3ee-0f88ca9412b8)
+# Whats new?
+
+- nuke and bomb icons are now on the scorebar!
+
+![nuke_bomb_gif_preview_1](https://github.com/user-attachments/assets/a63cefdf-e08b-44f1-b73d-8c230f72c0f6)
+
+# Weapon bar: 
+
+- the hud got a little revamp the perk icons got moved around
+- ***yes the deathstreak icon still pops up,  thats what the null icon is!***
+
+![85d92ba979ba901935c455110e606d52d6bb617f](https://github.com/user-attachments/assets/511fbe64-db42-4668-9126-480d31b4f532)
+![f1c8ec2d1e81a9d5a431ae0772a26e289d8f8628](https://github.com/user-attachments/assets/d4554b2f-980f-4419-aaa3-8e3718c512ed)
+![967925cd7ac6d23e37aecd2f0933ba062ffa1ef3](https://github.com/user-attachments/assets/9917e3bc-0134-46a4-9791-0a54d37d041e)
 
 
 # Credits 
