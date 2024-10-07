@@ -5,7 +5,7 @@
 > 
 > ***(this will be updated in the upcoming days as this is in alpha)***
 
-- **now on alterware forums!** https://forum.alterware.dev/t/iw4x-iw4m-alternative-modified-sherkan-se5-hud-v0-0-1/1209
+- **now on alterware forums!** [https://forum.alterware.dev/t/iw4x-iw4m-alternative-modified-sherkan-se5-hud-v0-0-1/1209](https://forum.alterware.dev/t/iw4x-iw4m-alternative-modified-sherkan-se5-hud-v0-0-3-alpha/1209)
 
 # Whats new?
 
