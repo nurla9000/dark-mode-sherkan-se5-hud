@@ -26,7 +26,7 @@
 # Credits 
 - Sherkan devs, if they never had made Sherkan SE5 client this wouldnt be possible
 - maksandr for making the og sherkan se5 hud!
-- CloneCommOmar for uploading the Sherkan HUD the alterware discord for this to edited
+- CloneCommOmar for uploading the Sherkan HUD to the alterware discord for this to edited
 
 ## Colors n Color Codes:
  - Green \ Red 
