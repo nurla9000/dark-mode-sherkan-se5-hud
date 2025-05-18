@@ -28,7 +28,7 @@
 - maksandr for making the og sherkan se5 hud!
 - CloneCommOmar for uploading the Sherkan HUD to the alterware discord for this to edited
 
-## Colors n Color Codes:
+## Colors:
  - Green \ Red 
  - Blue \ Red
 
